@@ -15,4 +15,3 @@ public class workshop extends my2_banquet{
     }
 
 }
-
